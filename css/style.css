@@ -515,12 +515,26 @@ footer{
     font-size: x-large;
 }
 
+.news{
+    text-align: center;
+    background-color: rgba(225, 225, 225, 0.33);
+    padding: 10px;
+    border-radius: 70px;
+    margin-top: 20px;
+}
+
 .news img{
     width: 40px;
     height: 30px;
+    padding-top: 10px;
 }
 
 .news .delamaLogo{
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 55px;
+    padding-bottom: 8px;
+}
+
+.news b{
+    text-decoration: underline;
 }
