@@ -507,7 +507,7 @@ footer{
 }
 
 .maintList{
-    text-align: center;
+    text-align: center  ;
 }
 
 .maintList i{
@@ -515,3 +515,12 @@ footer{
     font-size: x-large;
 }
 
+.news img{
+    width: 40px;
+    height: 30px;
+}
+
+.news .delamaLogo{
+    width: 40px;
+    height: 40px;
+}
