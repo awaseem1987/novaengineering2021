@@ -506,3 +506,12 @@ footer{
     width: 150px;
 }
 
+.maintList{
+    text-align: center;
+}
+
+.maintList i{
+    color:#0A3F70;
+    font-size: x-large;
+}
+
