@@ -331,7 +331,7 @@ nav ul li a:hover{
 /* ---SORGENTE SRL--- */
 
 .sorgente{
-    background-color: var(--bgColor-21);
+    background-color: var(--bgColor-2);
     padding: 60px var(--padding) 2rem var(--padding);
 }
 .sorgente .box{
@@ -356,10 +356,38 @@ nav ul li a:hover{
     width: 280px;
 }
 
+/* ---PETROL--- */
+
+.petrol{
+    background-color: var(--bgColor-1);
+    padding: 60px var(--padding) 2rem var(--padding);
+}
+.petrol .box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.petrol .container-text{
+    width: 550px;
+}
+.petrol p{
+    font-size: 1.2rem;
+}
+.petrol .container-img{
+    margin: 1rem;
+}
+.petrol .container-img img{
+    width: 250px;
+    transition: 1s;
+}
+.petrol .container-img img:hover{
+    width: 280px;
+}
+
 /* ---TECHNICAL SUPPORT--- */
 
 .technical{
-    background-color: var(--bgColor-1);
+    background-color: var(--bgColor-2);
     padding: 60px var(--padding) 2rem var(--padding);
 }
 .technical .box{
@@ -397,7 +425,7 @@ nav ul li a:hover{
 /* ---CONTACT US--- */
 
 .contact{
-    background-color:var(--bgColor-2);
+    background-color:var(--bgColor-1);
     padding: 2rem 0 2rem 0;
 }
 .contact .box{
