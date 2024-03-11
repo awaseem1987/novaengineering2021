@@ -10,17 +10,9 @@ const partners = [
   {
     id: "",
     order: null,
-    name: "PEQ GROUP",
-    logo: "https://www2.pqegroup.com/wp-content/uploads/2022/08/PQE-logo.svg",
-    website: "https://www2.pqegroup.com/blog/techniconsult-group-joins-pqe-federation/",
-    devision: "engineering"
-  },
-  {
-    id: "",
-    order: null,
     name: "PARTECO Modular Cleanroom System",
-    logo: "https://parteco.it/wp-content/uploads/2021/11/cropped-parteco-200x51.png",
-    website: "https://parteco.it/",
+    logo: "https://parteco.it/wp-content/uploads/2021/01/parteco-1024x256.png",
+    website: "https://parteco.it/en/",
     devision: "facility"
   },
   {
@@ -43,8 +35,8 @@ const partners = [
     id: "",
     order: null,
     name: "SOLME",
-    logo: "logos/solme.png",
-    website: "https://www.solme.com/",
+    logo: "https://www.solme.com/wp-content/uploads/logo_solme.png",
+    website: "https://www.solme.com/en/",
     devision: "preparation"
   },
   {
@@ -90,14 +82,6 @@ const partners = [
   {
     id: "",
     order: null,
-    name: "Hudi Pharma X",
-    logo: "logos/hudiPharmaX.png",
-    website: "https://www.hudipharma.com/dedalo-encapsulator/",
-    devision: "non-sterile"
-  },
-  {
-    id: "",
-    order: null,
     name: "ARCA Labeling & Marking",
     logo: "logos/arca-removebg-preview.png",
     website: "https://www.arcalabelingmarking.com/en/",
@@ -138,25 +122,9 @@ const partners = [
   {
     id: "",
     order: null,
-    name: "Di Renzo Regulatory",
-    logo: "logos/di-renzo-regulatory.png",
-    website: "https://www.direnzo.biz/it/en/",
-    devision: "regulatory"
-  },
-  {
-    id: "",
-    order: null,
     name: "MPA ITALY",
-    logo: "https://mpaitaly.com/images/logo.png",
-    website: "https://mpaitaly.com/uk/index.html",
-    devision: "sterile"
-  },
-  {
-    id: "",
-    order: null,
-    name: "SENNA INOX",
-    logo: "logos/sennaInox.png",
-    website: "https://www.sennainox.it/",
+    logo: "../logos/mpa.png",
+    website: "https://mpaitaly.com/en/",
     devision: "sterile"
   },
   {
@@ -173,14 +141,6 @@ const partners = [
     name: "ABC TRANSFER",
     logo: "logos/abcTransfer.png",
     website: "https://abctransfer.fr/",
-    devision: "sterile"
-  },
-  {
-    id: "",
-    order: null,
-    name: "FASTER",
-    logo: "logos/faster.png",
-    website: "https://www.faster-air.com/en/",
     devision: "sterile"
   },
   {
@@ -213,14 +173,6 @@ const partners = [
     name: "HFILTRATION",
     logo: "logos/hfiltration.png",
     website: "https://hfiltration.it/en/",
-    devision: "sterile"
-  },
-  {
-    id: "",
-    order: null,
-    name: "GENERAL FILTER",
-    logo: "https://www.generalfilter.com/wp-content/themes/gfs-child/img/logo.png",
-    website: "https://www.generalfilter.com/en/",
     devision: "sterile"
   },
   {
@@ -261,38 +213,6 @@ const partners = [
     name: "BISIO PROGETTI",
     logo: "logos/bisio-progetti.png",
     website: "http://www.bisioprogetti.it/it/index.html",
-    devision: "sterile"
-  },
-  {
-    id: "",
-    order: null,
-    name: "Gualapack",
-    logo: "https://www.gualapackgroup.com/wp-content/uploads/2020/06/GP-Logo-color.png",
-    website: "https://www.gualapackgroup.com/",
-    devision: "sterile"
-  },
-  {
-    id: "",
-    order: null,
-    name: "NECTRA",
-    logo: "logos/nectra-removebg-preview.png",
-    website: "https://nectra-com.fr/en/home/",
-    devision: "sterile"
-  },
-  {
-    id: "",
-    order: null,
-    name: "VICTORIA",
-    logo: "logos/victoria-removebg-preview.png",
-    website: "https://incubatricivictoria.com/en.html",
-    devision: "sterile"
-  },
-  {
-    id: "",
-    order: null,
-    name: "SOLDO CAVITATORS",
-    logo: "logos/soldo-removebg-preview.png",
-    website: "https://soldocavitators.com/",
     devision: "sterile"
   }
 ];
