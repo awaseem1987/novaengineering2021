@@ -42,9 +42,10 @@ const partners = [
   {
     id: "",
     order: null,
-    name: "COS.MEC",
-    logo: "logos/cosmec-freund.png",
-    website: "https://www.cosmec-it.com/en",
+    name: "FREUND",
+    logo: "https://www.freund.co.jp/common/images/logo.svg",
+    website: "https://www.freund.co.jp/english/",
+    //https://www.cosmec-it.com/en
     devision: "non-sterile"
   },
   {
@@ -164,8 +165,8 @@ const partners = [
     order: null,
     name: "CDZ",
     logo: "logos/cdz.png",
-    website: "https://www.cosmec-it.com/en",
-    devision: "sterile"
+    website: "https://www.cdzsrl.net/",
+    devision: "electro-mechanical"
   },
   {
     id: "",
@@ -216,4 +217,6 @@ const partners = [
     devision: "sterile"
   }
 ];
+
+
 
