@@ -42,7 +42,7 @@
     /* transition: transform 5s, left 5s; */ 
 }
 .home img:hover{
-    /* transform: scale(1.2); */
+    transform: scale(1.2); /*  */
 }
 .home h1{
     color: var(--primaryColor);
@@ -170,7 +170,7 @@
 /* ---SERVICES/DIVISIONS--- */
 
 .services{
-    background-color: var(--bgColor-1);
+    background-color: var(--bgColor-2);
     padding: 60px 0 2rem 0;
 }
 .services .division-grid{
@@ -182,7 +182,7 @@
 .services .card{
     width: 150px;
     height: 150px;
-    background-color: white;
+    background-color: var(--bgColor-1);
     border-radius: 50%;
     padding: .5rem .5rem;
     margin: 1rem;
@@ -211,7 +211,7 @@
 /* ---SORGENTE SRL--- */
 
 .sorgente{
-    background-color: var(--bgColor-2);
+    background-color: var(--bgColor-1);
     padding: 60px var(--padding) 2rem var(--padding);
 }
 .sorgente .box{
@@ -239,7 +239,7 @@
 /* ---PETROL--- */
 
 .petrol{
-    background-color: var(--bgColor-1);
+    background-color: var(--bgColor-2);
     padding: 60px var(--padding) 2rem var(--padding);
 }
 .petrol .box{
@@ -267,7 +267,7 @@
 /* ---TECHNICAL SUPPORT--- */
 
 .technical{
-    background-color: var(--bgColor-2);
+    background-color: var(--bgColor-1);
     padding: 60px var(--padding) 2rem var(--padding);
 }
 .technical .box{
@@ -305,7 +305,7 @@
 /* ---CONTACT US--- */
 
 .contact{
-    background-color:var(--bgColor-1);
+    background-color:var(--bgColor-2);
     padding: 2rem 0 2rem 0;
 }
 .contact .box{
@@ -421,21 +421,21 @@
 
 .market{
     text-align: center;
-    background-color: rgba(225, 225, 225, 0.25);
-    padding: 10px;
+    background-color: var(--bgColor-1);
+    padding: 15px;
     border-radius: 25px;
-    margin: 10px 10px;
-    min-width: 250px;   
+    margin: 10px 20px;
+    min-width: 150px;   
 }
 
 .market img{
     width: 70px;
     height: 50px;
     object-fit: cover;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 .market a{
-    /* text-decoration: underline; 
-    font-weight: bold; */
+    /* text-decoration: underline; */
+    font-weight: bold; 
 }
