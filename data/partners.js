@@ -144,7 +144,15 @@ const egpartners = [
     name: "MPA ITALY",
     logo: "../logos/mpa.png",
     website: "https://mpaitaly.com/en/",
-    devision: "sterile"
+    devision: "spare parts"
+  },
+  {
+    id: "",
+    order: null,
+    name: "OZAF",
+    logo: "https://ozaf.it/wp-content/uploads/2019/06/Copia-di-logo_OZAF_colori_sfondo-trasparente.png",
+    website: "https://ozaf.it/eng/",
+    devision: "spare parts"
   },
   {
     id: "",
@@ -321,14 +329,24 @@ const ksapartners = [
     website: "https://www.prismaindustriale.com/en-US/home-page.aspx",
     devision: "secondary-packaging"
   },
+  
   {
     id: "",
     order: null,
     name: "MPA ITALY",
     logo: "../logos/mpa.png",
     website: "https://mpaitaly.com/en/",
-    devision: "sterile"
+    devision: "spare parts"
   },
+  {
+    id: "",
+    order: null,
+    name: "OZAF",
+    logo: "https://ozaf.it/wp-content/uploads/2019/06/Copia-di-logo_OZAF_colori_sfondo-trasparente.png",
+    website: "https://ozaf.it/eng/",
+    devision: "spare parts"
+  },
+  
 
 
 
