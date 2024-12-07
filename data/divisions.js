@@ -93,8 +93,15 @@ const divisions = [
   {
     id: '',
     order: null,
+    name: 'APIs',
+    symbol: '<em class="fas fa-prescription-bottle-alt"></em>',
+    data: null
+  },
+  {
+    id: '',
+    order: null,
     name: 'Packaging Materials',
-    symbol: '<em class="fa-solid fa-prescription-bottle-medical"></em>',
+    symbol: '<em class="fas fa-box-open"></em>',
     data: null
   },
   {
