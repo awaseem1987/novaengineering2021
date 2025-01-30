@@ -259,10 +259,26 @@ const ksapartners = [
   {
     id: "",
     order: null,
+    name: "KIKUSUI",
+    logo: "logos/kikusui.png",
+    website: "http://www.kikusui.com/en/Home",
+    devision: "non-sterile"
+  },
+  {
+    id: "",
+    order: null,
     name: "FAMAR TEC",
     logo: "logos/famarTec.png",
     website: "https://www.famartecsrl.com/",
     devision: "non-sterile"
+  },
+  {
+    id: "",
+    order: null,
+    name: "STEVANATO GROUP",
+    logo: "https://stevanatogroup-cdn.thron.com/delivery/public/image/stevanatogroup/cded1d5c-bf61-4d27-927f-e96839341f2b/61x0hd/std/0x0/jpg_logo_spami_sg_lr.jpg",
+    website: "https://www.stevanatogroup.com/en/",
+    devision: "secondary-packaging"
   },
   {
     id: "",
