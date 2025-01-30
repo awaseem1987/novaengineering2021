@@ -10,9 +10,9 @@ const egpartners = [
   {
     id: "",
     order: null,
-    name: "PARTECO Modular Cleanroom System",
-    logo: "https://parteco.it/wp-content/uploads/2021/01/parteco-1024x256.png",
-    website: "https://parteco.it/en/",
+    name: "DELTA 2000",
+    logo: "https://easyfairsassets.com/sites/206/2023/10/Artboard-1-1.png",
+    website: "https://www.delta-2000.com/en//",
     devision: "facility"
   },
   {
@@ -72,15 +72,6 @@ const egpartners = [
     website: "http://www.kikusui.com/en/Home",
     devision: "non-sterile"
   },
-
-  {
-    id: "",
-    order: null,
-    name: "OMAS",
-    logo: "logos/omas.png",
-    website: "https://www.omastecnosistemi.it/",
-    devision: "non-sterile"
-  },
   {
     id: "",
     order: null,
@@ -113,31 +104,6 @@ const egpartners = [
     website: "https://www.arcalabelingmarking.com/en/",
     devision: "secondary-packaging"
   },
-  {
-    id: "",
-    order: null,
-    name: "PIERI",
-    logo: "https://www.pieri.it/wp-content/uploads/2018/08/logo-pieri.png",
-    website: "https://www.pieri.it/en/",
-    devision: "secondary-packaging"
-  },
-
-  // {
-  //   id: "",
-  //   order: null,
-  //   name: "METAPACK",
-  //   logo: "logos/metapack.png",
-  //   website: "https://www.metapack.it/",
-  //   devision: "sterile"
-  // },
-  // {
-  //   id: "",
-  //   order: null,
-  //   name: "STI Engineering",
-  //   logo: "logos/sti-engineering.jpg",
-  //   website: "https://www.sti-engineering.it/en/",
-  //   devision: "engineering"
-  // },
   {
     id: "",
     order: null,
@@ -226,16 +192,6 @@ const egpartners = [
     website: "https://www.inexportlight.com/it/",
     devision: "sterile"
   }
-
-
-  // {
-  //   id: "",
-  //   order: null,
-  //   name: "BISIO PROGETTI",
-  //   logo: "logos/bisio-progetti.png",
-  //   website: "http://www.bisioprogetti.it/it/index.html",
-  //   devision: "sterile"
-  // }
 ];
 
 
@@ -276,7 +232,6 @@ const ksapartners = [
     website: "https://www.zirbus.com/",
     devision: "sterile"
   },
-  
   {
     id: "",
     order: null,
@@ -285,24 +240,13 @@ const ksapartners = [
     website: "https://www.tm-italia.it/index.php?lin=inglese",
     devision: "sterile"
   },
-
   {
     id: "",
     order: null,
-    name: "SOLME",
-    logo: "https://www.solme.com/wp-content/uploads/logo_solme.png",
-    website: "https://www.solme.com/en/",
+    name: "ADAM fabriwerk",
+    logo: "https://www.adamfabriwerk.com/images/Adam_Logo-p-500.png",
+    website: "https://www.adamfabriwerk.com//",
     devision: "preparation"
-  },
-
-
-  {
-    id: "",
-    order: null,
-    name: "OMAS",
-    logo: "logos/omas.png",
-    website: "https://www.omastecnosistemi.it/",
-    devision: "non-sterile"
   },
   {
     id: "",
@@ -312,7 +256,6 @@ const ksapartners = [
     website: "https://www.omag-pack.com/en",
     devision: "non-sterile"
   },
-
   {
     id: "",
     order: null,
@@ -329,7 +272,6 @@ const ksapartners = [
     website: "https://www.prismaindustriale.com/en-US/home-page.aspx",
     devision: "secondary-packaging"
   },
-  
   {
     id: "",
     order: null,
@@ -346,10 +288,6 @@ const ksapartners = [
     website: "https://ozaf.it/eng/",
     devision: "spare parts"
   },
-  
-
-
-
   {
     id: "",
     order: null,
@@ -358,8 +296,6 @@ const ksapartners = [
     website: "https://www.arcalabelingmarking.com/en/",
     devision: "secondary-packaging"
   },
-
-
   {
     id: "",
     order: null,
@@ -376,11 +312,6 @@ const ksapartners = [
     website: "https://www.rigellifesciences.com/",
     devision: "sterile"
   },
-
-
-
-
-
   {
     id: "",
     order: null,
@@ -429,7 +360,6 @@ const ksapartners = [
     website: "https://www.inexportlight.com/it/",
     devision: "sterile"
   },
-
 ];
 
 
