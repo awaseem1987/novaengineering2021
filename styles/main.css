@@ -427,6 +427,7 @@
     border-radius: 25px;
     margin: 10px 20px;
     min-width: 10px; 
+    font-weight: bold;
 
 }
 
@@ -436,9 +437,4 @@
     object-fit: cover;
     margin-top: 5px;
 
-}
-
-.market a{
-    /* text-decoration: underline; */
-    font-weight: bold; 
 }
