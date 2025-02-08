@@ -99,6 +99,14 @@ const egpartners = [
   {
     id: "",
     order: null,
+    name: "SPAN",
+    logo: "https://spansystems.in/wp-content/uploads/2020/09/span-logo-2x.png",
+    website: "https://spansystems.in/events/",
+    devision: "secondary-packaging"
+  },
+  {
+    id: "",
+    order: null,
     name: "ARCA Labeling & Marking",
     logo: "logos/arca-removebg-preview.png",
     website: "https://www.arcalabelingmarking.com/en/",
@@ -284,17 +292,17 @@ const ksapartners = [
   {
     id: "",
     order: null,
-    name: "SPAN",
-    logo: "https://spansystems.in/wp-content/uploads/2020/09/span-logo-2x.png",
-    website: "https://spansystems.in/events/",
+    name: "PRISMA",
+    logo: "logos/prisma.png",
+    website: "https://www.prismaindustriale.com/en-US/home-page.aspx",
     devision: "secondary-packaging"
   },
   {
     id: "",
     order: null,
-    name: "PRISMA",
-    logo: "logos/prisma.png",
-    website: "https://www.prismaindustriale.com/en-US/home-page.aspx",
+    name: "SPAN",
+    logo: "https://spansystems.in/wp-content/uploads/2020/09/span-logo-2x.png",
+    website: "https://spansystems.in/events/",
     devision: "secondary-packaging"
   },
   {
