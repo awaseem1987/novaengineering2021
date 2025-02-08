@@ -199,6 +199,7 @@ const egpartners = [
 
 
 
+
 const ksapartners = [
   {
     id: "",
@@ -276,7 +277,7 @@ const ksapartners = [
     id: "",
     order: null,
     name: "STEVANATO GROUP",
-    logo: "https://stevanatogroup-cdn.thron.com/delivery/public/image/stevanatogroup/cded1d5c-bf61-4d27-927f-e96839341f2b/61x0hd/std/0x0/jpg_logo_spami_sg_lr.jpg",
+    logo: "https://vertassets.blob.core.windows.net/image/6e24148d/6e24148d-b891-4cb6-978a-6b2b5c1579e6/stevanto_group_1.png",
     website: "https://www.stevanatogroup.com/en/",
     devision: "secondary-packaging"
   },
@@ -360,13 +361,21 @@ const ksapartners = [
     website: "https://hfiltration.it/en/",
     devision: "sterile"
   },
+    {
+    id: "",
+    order: null,
+    name: "OCMI",
+    logo: "https://ocmigroup.com/wp-content/uploads/2021/03/logo.svg",
+    website: "https://www.ocmigroup.com/",
+    devision: "packaging material"
+  },
   {
     id: "",
     order: null,
     name: "IPM Italia",
     logo: "logos/ipm.png",
     website: "https://www.ipmitalia.it/en/",
-    devision: "sterile"
+    devision: "facility"
   },
   {
     id: "",
@@ -374,7 +383,7 @@ const ksapartners = [
     name: "INEXPORT LIGHT",
     logo: "logos/inexport-light.png",
     website: "https://www.inexportlight.com/it/",
-    devision: "sterile"
+    devision: "facility"
   },
 ];
 
