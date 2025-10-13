@@ -253,7 +253,7 @@ const ksapartners = [
     id: "",
     order: null,
     name: "ADAM fabriwerk",
-    logo: "https://www.adamfabriwerk.com/images/Adam_Logo-p-500.png",
+    logo: "https://adamfabriwerk.com/wp-content/uploads/2025/08/Adam-scaled-1.png",
     website: "https://www.adamfabriwerk.com//",
     devision: "preparation"
   },
@@ -402,6 +402,7 @@ const ksapartners = [
     devision: "facility"
   },
 ];
+
 
 
 
