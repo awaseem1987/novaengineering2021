@@ -222,7 +222,7 @@ const ksapartners = [
     order: null,
     name: "DELTA 2000 Clean Rooms",
     logo: "logos/delta2000.jpg",
-    website: "https://parteco.it/en/",
+    website: "https://www.delta-2000.com/en/",
     devision: "facility"
   },
   {
@@ -402,6 +402,7 @@ const ksapartners = [
     devision: "facility"
   },
 ];
+
 
 
 
