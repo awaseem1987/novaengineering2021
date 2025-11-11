@@ -99,10 +99,10 @@ const egpartners = [
   {
     id: "",
     order: null,
-    name: "SPAN",
-    logo: "https://spansystems.in/wp-content/uploads/2020/09/span-logo-2x.png",
-    website: "https://spansystems.in/events/",
-    devision: "secondary-packaging"
+    name: "PHARMAGEL",
+    logo: "https://www.phartech.it/pharmagel_theme/static/src/img/content/logo.svg",
+    website: "https://www.phartech.it/",
+    devision: "non-sterile"
   },
   {
     id: "",
@@ -300,10 +300,10 @@ const ksapartners = [
   {
     id: "",
     order: null,
-    name: "SPAN",
-    logo: "https://spansystems.in/wp-content/uploads/2020/09/span-logo-2x.png",
-    website: "https://spansystems.in/events/",
-    devision: "secondary-packaging"
+    name: "PHARMAGEL",
+    logo: "https://www.phartech.it/pharmagel_theme/static/src/img/content/logo.svg",
+    website: "https://www.phartech.it/",
+    devision: "non-sterile"
   },
   {
     id: "",
@@ -402,6 +402,7 @@ const ksapartners = [
     devision: "facility"
   },
 ];
+
 
 
 
