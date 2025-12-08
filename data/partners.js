@@ -292,14 +292,6 @@ const ksapartners = [
   {
     id: "",
     order: null,
-    name: "ANTARES VISION GROUP",
-    logo: "https://antaresvisiongroup.b-cdn.net/wp-content/uploads/2023/06/logo-new.png",
-    website: "https://antaresvisiongroup.com/",
-    devision: "secondary-packaging"
-  },
-  {
-    id: "",
-    order: null,
     name: "STEVANATO GROUP",
     logo: "https://vertassets.blob.core.windows.net/image/6e24148d/6e24148d-b891-4cb6-978a-6b2b5c1579e6/stevanto_group_1.png",
     website: "https://www.stevanatogroup.com/en/",
@@ -418,6 +410,7 @@ const ksapartners = [
     devision: "facility"
   },
 ];
+
 
 
 
