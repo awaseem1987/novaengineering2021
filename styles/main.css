@@ -268,7 +268,7 @@
 /* ---TECHNICAL SUPPORT--- */
 
 .technical{
-    background-color: var(--bgColor-1);
+    background-color: var(--bgColor-2);
     padding: 60px var(--padding) 2rem var(--padding);
 }
 .technical .box{
@@ -306,7 +306,7 @@
 /* ---CONTACT US--- */
 
 .contact{
-    background-color:var(--bgColor-2);
+    background-color:var(--bgColor-1);
     padding: 2rem 0 2rem 0;
 }
 .contact .box{
@@ -438,3 +438,4 @@
     margin-top: 5px;
 
 }
+
