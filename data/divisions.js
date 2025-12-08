@@ -13,7 +13,6 @@ const divisions = [
     symbol: '<em class="fa-solid fa-flask"></em>',
     data: null
   },
-  /*
   {
     id: '',
     order: null,
@@ -21,7 +20,6 @@ const divisions = [
     symbol: '<em class="fa-solid fa-vials"></em>',
     data: null
   },
-  */
   {
     id: '',
     order: null,
@@ -113,6 +111,7 @@ const divisions = [
     symbol: '<em class="fa-solid fa-screwdriver-wrench"></em>',
     data: null
   },
+  /*
   {
     id: '',
     order: null,
@@ -120,6 +119,7 @@ const divisions = [
     symbol: '<em class="fa-solid fa-oil-can"></em>',
     data: null
   },
+  */
   {
     id: '',
     order: null,
@@ -129,3 +129,4 @@ const divisions = [
   }
 
 ];
+
