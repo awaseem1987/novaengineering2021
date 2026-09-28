@@ -11,7 +11,7 @@ const egpartners = [
     id: "",
     order: null,
     name: "DELTA 2000",
-    logo: "https://easyfairsassets.com/sites/206/2023/10/Artboard-1-1.png",
+    logo: "https://www.cphi-online.com/company/delta-2000-s-r-l/logo%20firma.jpeg",
     website: "https://www.delta-2000.com/en//",
     devision: "facility"
   },
@@ -50,9 +50,9 @@ const egpartners = [
   {
     id: "",
     order: null,
-    name: "SOLME",
-    logo: "https://www.solme.com/wp-content/uploads/logo_solme.png",
-    website: "https://www.solme.com/en/",
+    name: "ADAM Fabriwerk",
+    logo: "https://www.cphi-online.com/company/adam-fabriwerk-pvt-ltd/LOG_1108311104BD2CED.jpg",
+    website: "https://adamfabriwerk.com/",
     devision: "preparation"
   },
   {
@@ -99,9 +99,9 @@ const egpartners = [
   {
     id: "",
     order: null,
-    name: "PRISMA",
-    logo: "logos/prisma.png",
-    website: "https://www.prismaindustriale.com/en-US/home-page.aspx",
+    name: "SIEMPHARMA",
+    logo: "https://www.siempharma.com/wp-content/uploads/2024/12/SIEMPHARMA-logo-1-e1733213034198-1024x165.png",
+    website: "https://www.siempharma.com/",
     devision: "secondary-packaging"
   },
   {
@@ -295,14 +295,6 @@ const ksapartners = [
     name: "STEVANATO GROUP",
     logo: "https://vertassets.blob.core.windows.net/image/6e24148d/6e24148d-b891-4cb6-978a-6b2b5c1579e6/stevanto_group_1.png",
     website: "https://www.stevanatogroup.com/en/",
-    devision: "secondary-packaging"
-  },
-  {
-    id: "",
-    order: null,
-    name: "PRISMA",
-    logo: "logos/prisma.png",
-    website: "https://www.prismaindustriale.com/en-US/home-page.aspx",
     devision: "secondary-packaging"
   },
   {
