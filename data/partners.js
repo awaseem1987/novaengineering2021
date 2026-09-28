@@ -195,6 +195,14 @@ const egpartners = [
   {
     id: "",
     order: null,
+    name: "AM Instruments",
+    logo: "https://cleanroomtechnology.com/am-instruments-7.jpg",
+    website: "https://www.aminstruments.com/en/",
+    devision: "facility"
+  },
+  {
+    id: "",
+    order: null,
     name: "ELETTRACQUA",
     logo: "logos/elettracqua.png",
     website: "http://www.elettracqua.com/",
