@@ -100,7 +100,7 @@ const egpartners = [
     id: "",
     order: null,
     name: "SIEMPHARMA",
-    logo: "https://www.siempharma.com/wp-content/uploads/2024/12/SIEMPHARMA-logo-1-e1733213034198-1024x165.png",
+    logo: "logos/siempharma.png",
     website: "https://www.siempharma.com/",
     devision: "secondary-packaging"
   },
