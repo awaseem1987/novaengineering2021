@@ -139,14 +139,6 @@ const egpartners = [
   {
     id: "",
     order: null,
-    name: "ARCA Labeling & Marking",
-    logo: "logos/arca-removebg-preview.png",
-    website: "https://www.arcalabelingmarking.com/en/",
-    devision: "secondary-packaging"
-  },
-  {
-    id: "",
-    order: null,
     name: "MPA ITALY",
     logo: "../logos/mpa.png",
     website: "https://mpaitaly.com/en/",
