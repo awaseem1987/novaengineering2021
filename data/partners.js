@@ -2,6 +2,14 @@ const egpartners = [
   {
     id: "",
     order: null,
+    name: "Sorgente",
+    logo: "https://sorgente-pharma.com/media/thumbnail_Original%20on%20Transparent.png",
+    website: "https://sorgente-pharma.com/",
+    devision: "spare parts"
+  },
+  {
+    id: "",
+    order: null,
     name: "Techniconsult",
     logo: "logos/techniconsult.png",
     website: "https://www.tcfirenze.com/en/",
@@ -75,9 +83,25 @@ const egpartners = [
   {
     id: "",
     order: null,
+    name: "Cadmach",
+    logo: "https://cadmach.com/wp-content/uploads/Cadmach70mmlogo.svg",
+    website: "https://cadmach.com/",
+    devision: "non-sterile"
+  },
+  {
+    id: "",
+    order: null,
     name: "OMAG",
     logo: "logos/omag.png",
     website: "https://www.omag-pack.com/en",
+    devision: "non-sterile"
+  },
+  {
+    id: "",
+    order: null,
+    name: "TGM",
+    logo: "https://tgm.it/ENG/wp-content/uploads/2021/06/LOGO-TGM-OK.svg",
+    website: "https://tgm.it/ENG/products/intubettatrici/",
     devision: "non-sterile"
   },
   {
@@ -147,6 +171,14 @@ const egpartners = [
   {
     id: "",
     order: null,
+    name: "ANDOCK",
+    logo: "https://andocksysteme.de/wp-content/uploads/2021/05/cropped-cropped-cropped-cropped-LOGO-Andocksysteme-1-scaled-e1770631992627.png",
+    website: "https://andocksysteme.de/en/",
+    devision: "containment"
+  },
+  {
+    id: "",
+    order: null,
     name: "ABC TRANSFER",
     logo: "logos/abcTransfer.png",
     website: "https://abctransfer.fr/",
@@ -207,6 +239,14 @@ const egpartners = [
     logo: "logos/inexport-light.png",
     website: "https://www.inexportlight.com/it/",
     devision: "sterile"
+  },
+  {
+    id: "",
+    order: null,
+    name: "OCMI",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_ntEf5J3V1pEDWb52Uf0ygzeOACBtPoarq3q4u8Li0u4WhUeZIeB4_0&s=10",
+    website: "https://www.ocmigroup.com/",
+    devision: "material"
   }
 ];
 
@@ -273,6 +313,23 @@ const ksapartners = [
     website: "https://www.omag-pack.com/en",
     devision: "non-sterile"
   },
+  {
+    id: "",
+    order: null,
+    name: "CORA",
+    logo: "https://coraitaly.net/wp-content/uploads/2023/11/2.png",
+    website: "https://coraitaly.net/en/",
+    devision: "containment"
+  },
+  {
+    id: "",
+    order: null,
+    name: "KIKUSUI",
+    logo: "logos/kikusui.png",
+    website: "http://www.kikusui.com/en/Home",
+    devision: "non-sterile"
+  },
+  
   {
     id: "",
     order: null,
@@ -384,6 +441,14 @@ const ksapartners = [
     logo: "https://ocmigroup.com/wp-content/uploads/2021/03/logo.svg",
     website: "https://www.ocmigroup.com/",
     devision: "packaging material"
+  },
+  {
+    id: "",
+    order: null,
+    name: "AM Instruments",
+    logo: "https://cleanroomtechnology.com/am-instruments-7.jpg",
+    website: "https://www.aminstruments.com/en/",
+    devision: "facility"
   },
   {
     id: "",
