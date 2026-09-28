@@ -268,6 +268,14 @@ const ksapartners = [
   {
     id: "",
     order: null,
+    name: "Sorgente",
+    logo: "https://sorgente-pharma.com/media/thumbnail_Original%20on%20Transparent.png",
+    website: "https://sorgente-pharma.com/",
+    devision: "spare parts"
+  },
+  {
+    id: "",
+    order: null,
     name: "Techniconsult",
     logo: "logos/techniconsult.png",
     website: "https://www.tcfirenze.com/en/",
@@ -337,15 +345,6 @@ const ksapartners = [
     website: "http://www.kikusui.com/en/Home",
     devision: "non-sterile"
   },
-  
-  {
-    id: "",
-    order: null,
-    name: "KIKUSUI",
-    logo: "logos/kikusui.png",
-    website: "http://www.kikusui.com/en/Home",
-    devision: "non-sterile"
-  },
   {
     id: "",
     order: null,
@@ -377,22 +376,6 @@ const ksapartners = [
     logo: "../logos/mpa.png",
     website: "https://mpaitaly.com/en/",
     devision: "spare parts"
-  },
-  {
-    id: "",
-    order: null,
-    name: "OZAF",
-    logo: "https://ozaf.it/wp-content/uploads/2019/06/Copia-di-logo_OZAF_colori_sfondo-trasparente.png",
-    website: "https://ozaf.it/eng/",
-    devision: "spare parts"
-  },
-  {
-    id: "",
-    order: null,
-    name: "ARCA Labeling & Marking",
-    logo: "logos/arca-removebg-preview.png",
-    website: "https://www.arcalabelingmarking.com/en/",
-    devision: "secondary-packaging"
   },
   {
     id: "",
@@ -449,14 +432,6 @@ const ksapartners = [
     logo: "https://ocmigroup.com/wp-content/uploads/2021/03/logo.svg",
     website: "https://www.ocmigroup.com/",
     devision: "packaging material"
-  },
-  {
-    id: "",
-    order: null,
-    name: "AM Instruments",
-    logo: "https://cleanroomtechnology.com/am-instruments-7.jpg",
-    website: "https://www.aminstruments.com/en/",
-    devision: "facility"
   },
   {
     id: "",
