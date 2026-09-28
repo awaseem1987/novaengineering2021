@@ -155,14 +155,6 @@ const egpartners = [
   {
     id: "",
     order: null,
-    name: "OZAF",
-    logo: "https://ozaf.it/wp-content/uploads/2019/06/Copia-di-logo_OZAF_colori_sfondo-trasparente.png",
-    website: "https://ozaf.it/eng/",
-    devision: "spare parts"
-  },
-  {
-    id: "",
-    order: null,
     name: "TEMA SINERGIE",
     logo: "logos/TEMAsinergie.png",
     website: "https://www.temasinergie.com/",
@@ -174,6 +166,14 @@ const egpartners = [
     name: "ANDOCK",
     logo: "https://andocksysteme.de/wp-content/uploads/2021/05/cropped-cropped-cropped-cropped-LOGO-Andocksysteme-1-scaled-e1770631992627.png",
     website: "https://andocksysteme.de/en/",
+    devision: "containment"
+  },
+  {
+    id: "",
+    order: null,
+    name: "CORA",
+    logo: "https://coraitaly.net/wp-content/uploads/2023/11/2.png",
+    website: "https://coraitaly.net/en/",
     devision: "containment"
   },
   {
